@@ -24,19 +24,22 @@ Sınıflandırıcının amacı, giriş olarak verilecek bir resmin hangi sanatç
 
 
 ## Çalışma Dosyaları 🖥️
+
+### Binder
+
 - Kurulumsuz tarayıcı üzerinde jupyter notebook ile mybinder üzerinde çalıştırabilmek için [tıklayınız](https://mybinder.org/v2/gh/yavuzKomecoglu/KaVe-Yaz-Okulu19/master).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yavuzKomecoglu/KaVe-Yaz-Okulu19/master)
 
 ### Google Colab
 
-- [1-Dataset-Analysis.ipynb](https://colab.research.google.com/github/yavuzKomecoglu/KaVe-Yaz-Okulu19/blob/master/1-Dataset-Analysis-best-artworks-of-all-time.ipynb) - Kaggle API ile veri kümesinin indirilme işlemleri ve analiz işlemlerinden oluşan çalışma dosyası.
+- [1-Dataset-Analysis.ipynb](https://colab.research.google.com/github/yavuzKomecoglu/KaVe-Yaz-Okulu19/blob/master/1-Dataset-Analysis-best-artworks-of-all-time-Colab.ipynb) - Kaggle API ile veri kümesinin indirilme işlemleri ve analiz işlemlerinden oluşan çalışma dosyası.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/KaVe-Yaz-Okulu19/blob/master/1-Dataset-Analysis-best-artworks-of-all-time.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/KaVe-Yaz-Okulu19/blob/master/1-Dataset-Analysis-best-artworks-of-all-time-Colab.ipynb)
 
 
-- [2-Training.ipynb](https://colab.research.google.com/github/yavuzKomecoglu/KaVe-Yaz-Okulu19/blob/master/2-Training-best-artworks-of-all-time.ipynb) - Modelin oluşturulması, eğitilmesi, performansın değerlendrilmesi ve web url ile test etme işlemlerinden oluşan çalışma dosyası
+- [2-Training.ipynb](https://colab.research.google.com/github/yavuzKomecoglu/KaVe-Yaz-Okulu19/blob/master/2-Training-best-artworks-of-all-time-Colab.ipynb) - Modelin oluşturulması, eğitilmesi, performansın değerlendrilmesi ve web url ile test etme işlemlerinden oluşan çalışma dosyası
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/KaVe-Yaz-Okulu19/blob/master/2-Training-best-artworks-of-all-time.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/KaVe-Yaz-Okulu19/blob/master/2-Training-best-artworks-of-all-time-Colab.ipynb)
    
 
